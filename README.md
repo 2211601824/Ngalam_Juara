@@ -1,14 +1,14 @@
-Require:
-Laravel PHP 7.4.33 atau di atasnya
-Jangan lupa Untuk Install composer
+Require:<br>
+Laravel PHP 7.4.33 atau di atasnya<br>
+Jangan lupa Untuk Install composer<br>
 
 Install :
 
-Clone Project,
-Rubah env.example jadi env dengan command : copy .env.example .env
-Jalankan command : composer install
-Jalankan command : php artisan key:generate
-Jalankan command : php artisan migrate
-Jalankan command : php artisan db:seed
-Untuk menjalankan Aplikasinya Silahkan jalankan : php artisan serve
+Clone Project,<br>
+Rubah env.example jadi env dengan command : copy .env.example .env<br>
+Jalankan command : composer install<br>
+Jalankan command : php artisan key:generate<br>
+Jalankan command : php artisan migrate<br>
+Jalankan command : php artisan db:seed<br>
+Untuk menjalankan Aplikasinya Silahkan jalankan : php artisan serve<br><p><br>
 *Note: Login > email : admin@gmail.com, password : qweasdzxc# Ngalam_Juara
